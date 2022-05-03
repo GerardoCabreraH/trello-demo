@@ -1,4 +1,4 @@
-# Documentación de Trello Demo 
+# Documentación de Trello Demo
 
 Se utilizo el paquete **Express** para poder consumir la API de **Trello** y con el paquete de pruebas de cliente HTTP **ThunderClient** cuando este activado el servidor. Después de activarlo, poner el la dirección dependiendo de la situación, siempre se debe de incluir el KEY y el TOKEN en la dirección. Por razones de seguridad se oculto esos dos parámetros en las imágenes.
 
